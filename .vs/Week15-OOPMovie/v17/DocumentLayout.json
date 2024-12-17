@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaisa\\source\\repos\\Week15-OOPMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A384233-43F3-4271-B22D-08893DD4755D}|Week15-OOPMovie\\Week15-OOPMovie.csproj|c:\\users\\kaisa\\source\\repos\\week15-oopmovie\\week15-oopmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A384233-43F3-4271-B22D-08893DD4755D}|Week15-OOPMovie\\Week15-OOPMovie.csproj|solutionrelative:week15-oopmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaisa\\source\\repos\\Week15-OOPMovie\\Week15-OOPMovie\\Program.cs",
+              "RelativeDocumentMoniker": "Week15-OOPMovie\\Program.cs",
+              "ToolTip": "C:\\Users\\kaisa\\source\\repos\\Week15-OOPMovie\\Week15-OOPMovie\\Program.cs",
+              "RelativeToolTip": "Week15-OOPMovie\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:34:38.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

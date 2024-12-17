@@ -1,0 +1,14 @@
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\bin\Debug\net8.0\Week15-OOPMovie.exe
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\bin\Debug\net8.0\Week15-OOPMovie.deps.json
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\bin\Debug\net8.0\Week15-OOPMovie.runtimeconfig.json
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\bin\Debug\net8.0\Week15-OOPMovie.dll
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\bin\Debug\net8.0\Week15-OOPMovie.pdb
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\obj\Debug\net8.0\Week15-OOPMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\obj\Debug\net8.0\Week15-OOPMovie.AssemblyInfoInputs.cache
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\obj\Debug\net8.0\Week15-OOPMovie.AssemblyInfo.cs
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\obj\Debug\net8.0\Week15-OOPMovie.csproj.CoreCompileInputs.cache
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\obj\Debug\net8.0\Week15-OOPMovie.dll
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\obj\Debug\net8.0\refint\Week15-OOPMovie.dll
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\obj\Debug\net8.0\Week15-OOPMovie.pdb
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\obj\Debug\net8.0\Week15-OOPMovie.genruntimeconfig.cache
+C:\Users\kaisa\source\repos\Week15-OOPMovie\Week15-OOPMovie\obj\Debug\net8.0\ref\Week15-OOPMovie.dll
